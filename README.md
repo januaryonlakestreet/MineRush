@@ -8,4 +8,4 @@ be pushed off the screen as the camera scrolls down,
 all the while they must keep mining downwards making sure not to come in to contact with any nasty little traps or surprises.
 
 
-unfortanuatly due to github file size limit - https://drive.google.com/open?id=1LizlAu9EeiP5A-_DFNgkwg6HDFeoLWt5 google drive link to a build.
+unfortanuatly due to github file size limit - https://drive.google.com/open?id=1RKULXJ8gfupXUceC08KDqZiqSEK2iXkP google drive link to a build.
